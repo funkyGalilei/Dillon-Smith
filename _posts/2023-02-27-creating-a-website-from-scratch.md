@@ -1,10 +1,9 @@
 ---
-layout: post
 title: Creating a Website From Scratch
 date: 2023-02-27 22:39
 author: dillonsemail2012
 comments: true
-categories: [CSS/HTML, Engineering Projects]
+categories: [CSS/HTML, Engineering Projects, Programming]
 ---
 <!-- wp:paragraph -->
 <p>So I've known I wanted a website for about a week now. During that time, I used a three day weekend to relearn HTML and CSS (I have some knowledge of them thanks to the great folks over at Khan Academy (｡⁠◕⁠‿⁠◕⁠｡)) and created a simple static website that has a navigation bar, footer, and interconnected pages.</p>
