@@ -1,10 +1,15 @@
 ---
-layout: post
 title: Quaternions - another way to view rotations
 date: 2025-02-08 22:26
 author: dillonsemail2012
 comments: true
-categories: [education, Engineering Projects, math, mathematics, MATLAB, philosophy, physics, Uncategorized]
+categories: [Engineering Projects, MATLAB]
+tags:
+- education
+- math
+- mathematics
+- philosophy
+- physics
 ---
 <!-- wp:embed {"url":"https://youtu.be/idIu5ZaYSjw","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
