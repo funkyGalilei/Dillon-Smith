@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Calculating the Deformation of a Simple Beam under a Distributed Load
 date: 2023-02-27 23:08
 author: dillonsemail2012
