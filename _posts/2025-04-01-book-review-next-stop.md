@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Next Stop
 date: 2025-04-01 21:42
 author: dillonsemail2012
