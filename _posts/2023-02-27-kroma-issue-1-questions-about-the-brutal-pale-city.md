@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Kroma, Issue 1: Questions About the Brutal Pale City
 date: 2023-02-27 21:59
 author: dillonsemail2012
