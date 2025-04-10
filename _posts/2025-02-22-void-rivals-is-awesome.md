@@ -1,10 +1,15 @@
 ---
-layout: post
 title: Void Rivals is Awesome
 date: 2025-02-22 11:40
 author: dillonsemail2012
 comments: true
-categories: [Book Reviews, book-review, books, Comic Reviews, comics, fiction, reading]
+categories: [Book Reviews, Comic Reviews]
+tags:
+- book-review
+- books
+- comics
+- fiction
+- reading]
 ---
 <!-- wp:jetpack/rating-star {"rating":4.5} -->
 <figure class="wp-block-jetpack-rating-star" style="text-align:left"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></figure>
