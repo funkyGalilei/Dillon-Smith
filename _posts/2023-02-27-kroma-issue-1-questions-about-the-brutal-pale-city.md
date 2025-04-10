@@ -1,7 +1,6 @@
 ---
-title: "Kroma, Issue 1: Questions About the Brutal Pale City"
+title: "Kroma, Issue 1 Questions About the Brutal Pale City"
 date: 2023-02-27 21:59
-comments: true
 categories: [Comic Reviews]
 tags:
 - Kroma
