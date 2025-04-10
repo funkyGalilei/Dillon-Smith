@@ -2,6 +2,7 @@
 layout: post
 title: Websites Can Be Annoying Sometimes
 date: 2025-04-10 01:57
+category: [Programming]
 ---
 
 # im editing this from my phone!
