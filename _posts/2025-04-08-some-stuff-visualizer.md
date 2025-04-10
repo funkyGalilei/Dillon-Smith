@@ -1,5 +1,4 @@
 ---
-layout: post
 title: some stuff Visualizer
 date: 2025-04-08 01:57
 comments: true
