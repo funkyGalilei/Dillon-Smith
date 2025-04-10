@@ -1,10 +1,12 @@
 ---
-layout: post
-title: Chapter 62: Too much Childhood Trauma, The R-Slur, and a still mostly Based Alana
+title: "Chapter 62: Too much Childhood Trauma, The R-Slur, and a still mostly Based Alana"
 date: 2023-02-27 21:10
 author: dillonsemail2012
 comments: true
-categories: [Comic Reviews, comics, Saga]
+categories: [Comic Reviews]
+tags:
+- comics
+- Saga
 ---
 <!-- wp:paragraph {"fontSize":"medium"} -->
 <p class="has-medium-font-size">Spoiler Alert! Every review will be going over spoilers, just an FYI. It’s kinda hard to talk about Saga without them, so there’s the warning in advance.</p>
