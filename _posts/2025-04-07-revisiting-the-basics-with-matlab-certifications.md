@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Revisiting the basics with MATLAB Certifications
 date: 2025-04-07 20:59
 comments: true
