@@ -1,10 +1,9 @@
 ---
-layout: post
 title: .png tuber - coding a live, interactive character in Processing
 date: 2025-04-01 20:56
 author: dillonsemail2012
 comments: true
-categories: [Art, Blender, Creativity, Programming, technology]
+categories: [Blender, Creativity, Programming]
 ---
 <!-- wp:paragraph -->
 <p>PNG tubers? What are they? Well, you might have heard of Vtubers, which are 3D modelled characters that use live face tracking to essentially create an avatar that mimics the eye motion and facial expressions of people. This is usually live, and can be very impressive. I have learned how to model in blender, but the hardware I have accessible right now (a powerful laptop) can’t quite do anything that intense - especially while running other programs. So instead, there’s these things called png tubers - which are animated characters that are 2D and can have their own animations. When diving down this rabbit hole, I fell onto the 2 main available base programs to start from:</p>
