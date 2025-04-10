@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Understand Rigid Body Dynamics
 date: 2025-02-09 10:32
 author: dillonsemail2012
