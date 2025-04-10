@@ -1,5 +1,4 @@
 ---
-layout: post
 title: R - A Potential Equivalent to MATLAB, and New Appreciations
 date: 2025-04-03 21:04
 author: dillonsemail2012
