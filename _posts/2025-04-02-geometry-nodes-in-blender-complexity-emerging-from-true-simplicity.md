@@ -1,10 +1,9 @@
 ---
-layout: post
 title: Geometry Nodes in Blender - Complexity Emerging from True Simplicity
 date: 2025-04-02 22:10
 author: dillonsemail2012
 comments: true
-categories: [Art, Blender, Creativity, Programming]
+categories: [Blender, Creativity, Programming]
 ---
 <!-- wp:paragraph -->
 <p>I love blender nodes, and the concept of nodes in general. Visual programming is how we teach students who are first learning the concept, and there’s a reason why we do it like that. Why should we stop? I’m probably a visual learner. After a point, concepts in programming can be visualized in one dimension, just up and down. “For loops” become up and down back and forth motions instead of actual loops. The simulation nodes in Blender however? It's a region. And makes me think about how the process is actually looping because the logic is placed in a 2D space. </p>
