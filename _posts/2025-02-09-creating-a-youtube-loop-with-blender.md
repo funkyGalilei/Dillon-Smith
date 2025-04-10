@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Creating a fun loop with Blender
 date: 2025-02-09 08:58
 author: dillonsemail2012
