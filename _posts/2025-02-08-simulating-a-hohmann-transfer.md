@@ -1,14 +1,13 @@
 ---
 title: Simulating a Hohmann Transfer
 date: 2025-02-08 23:12
-author: dillonsemail2012
 comments: true
-categories: [astronomy, Engineering Projects, MATLAB
+categories: [astronomy, Engineering Projects, MATLAB]
 tags:
 - nasa
 - news
 - science
-- space]
+- space
 ---
 <!-- wp:paragraph -->
 <p>This was a fun and interesting project I did around orbital dynamics, and a Hohmann Transfer with Impulsive Burns (the math gets more complicated with finite, steady burns). This setup is about the simplest way to view a transition from 2 separate orbits, since the eccentricity is 1 (a circle) and the burn is along the tangent of the circle. Another way of saying a circular orbit is to say a geostationary orbit, or one that “hovers above only 1 location on a body.</p>
