@@ -4,7 +4,7 @@ title: Torrent, Issue 1: An Unfortunate Let Down
 date: 2023-02-27 21:42
 author: dillonsemail2012
 comments: true
-categories: [Comic Reviews, Torrent]
+categories: [Comic Reviews]
 ---
 <!-- wp:paragraph -->
 <p>I picked this issue up while grabbing Saga, and this one was an unfortunate let down. Now, I wanted to only review comics that I really liked, but there wouldn’t be a baseline for my reviews if I just gave out five outta fives, so here’s my first negative review.</p>
