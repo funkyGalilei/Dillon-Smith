@@ -2,7 +2,6 @@
 layout: post
 title: Revisiting the basics with MATLAB Certifications
 date: 2025-04-07 20:59
-author: dillonsemail2012
 comments: true
 categories: [Engineering Projects, MATLAB, Programming]
 ---

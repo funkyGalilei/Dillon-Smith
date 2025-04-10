@@ -1,10 +1,10 @@
 ---
 layout: post
-title: R: A Potential Equivalent to MATLAB, and New Appreciations
+title: R - A Potential Equivalent to MATLAB, and New Appreciations
 date: 2025-04-03 21:04
 author: dillonsemail2012
 comments: true
-categories: [Engineering Projects, Programming, R, statistics]
+categories: [Engineering Projects, Programming, R]
 ---
 <!-- wp:paragraph -->
 <p>As a student at San Jose State University, I took a lot of things for granted. One of those things being software licenses for a lot of great programs. But as I am about to lose those ever so precious student license status, I wanted to branch out to the fee, open source equivalents before they go away.<br></p>

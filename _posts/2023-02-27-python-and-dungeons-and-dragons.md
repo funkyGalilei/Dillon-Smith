@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Python &amp; Dungeons and Dragons
+title: "Python & Dungeons and Dragons"
 date: 2023-02-27 22:47
-author: dillonsemail2012
 comments: true
 categories: [Engineering Projects, Programming]
 ---

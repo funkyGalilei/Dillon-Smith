@@ -1,8 +1,7 @@
 ---
 layout: post
-title: some stuff! Visualizer
+title: some stuff Visualizer
 date: 2025-04-08 01:57
-author: dillonsemail2012
 comments: true
 categories: [Creativity, Processing, Programming]
 ---
