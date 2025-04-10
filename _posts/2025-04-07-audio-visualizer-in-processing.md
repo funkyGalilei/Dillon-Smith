@@ -1,9 +1,11 @@
 ---
-layout: post
 title: Audio Visualizer in Processing
 date: 2025-04-07 19:22
 comments: true
 categories: [Creativity, Processing, Programming]
+tags:
+- Audio Visual
+- music
 ---
 <!-- wp:paragraph -->
 <p>Audio Visualizers! They’re a lot of fun! And Programming is fun to me. Especially when it helps visualize some audio. I tend to start at one place programming, and then add on a bunch for functionality and turn a quick thing into a more fleshed out project that takes a lot more effort (I didn’t even want to add this project to a github repo because I thought it was going to be short, but then it ballooned so I figure I should add it now lol).<br></p>
