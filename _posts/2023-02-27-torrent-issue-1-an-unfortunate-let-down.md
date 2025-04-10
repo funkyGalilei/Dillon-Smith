@@ -1,6 +1,5 @@
 ---
-layout: post
-title: Torrent, Issue 1: An Unfortunate Let Down
+title: "Torrent, Issue 1: An Unfortunate Let Down"
 date: 2023-02-27 21:42
 author: dillonsemail2012
 comments: true
