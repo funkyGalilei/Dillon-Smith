@@ -1,9 +1,10 @@
 ---
-title: Kroma, Issue 1: Questions About the Brutal Pale City
+title: "Kroma, Issue 1: Questions About the Brutal Pale City"
 date: 2023-02-27 21:59
-author: dillonsemail2012
 comments: true
-categories: [Comic Reviews, Kroma]
+categories: [Comic Reviews]
+tags:
+- Kroma
 ---
 <!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"layout":{"type":"constrained","justifyContent":"center"}} -->
