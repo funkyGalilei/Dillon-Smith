@@ -1,6 +1,5 @@
 ---
-layout: post
-title: Learning Blender - Familiar territory!
+title: "Learning Blender - Familiar territory!"
 date: 2025-02-08 11:40
 author: dillonsemail2012
 comments: true
